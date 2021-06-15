@@ -24,3 +24,8 @@ Once the meeting invitation sent, the receiver has two options, accept or reject
 
 
 On acceptance of the meeting invitation, the video meeting will start using the Jitsi Meet. To implement video meetings or conferences lots of groundwork is needed, to simplify this process we will use a pre-built Jitsi Meet client which is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs). It allows audio and video communication to work inside applications and web pages by allowing direct peer-to-peer communication, eliminating the need to install plugins or download native apps. This Jitsi Meet client provides the facilities like, switch sound devices, invite more people to the meeting, audio-only mode, toggle camera, tile view in case of more people. The best part is you can also start chat conversion during video meetings.
+
+
+
+![Screenshot_20210607-185804](https://user-images.githubusercontent.com/51409168/122112086-2d68be00-ce40-11eb-82c9-5117abebb0e3.png)
+
