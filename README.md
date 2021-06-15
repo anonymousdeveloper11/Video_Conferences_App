@@ -31,4 +31,10 @@ On acceptance of the meeting invitation, the video meeting will start using the 
 
 ![Screenshot_20210610-215152](https://user-images.githubusercontent.com/51409168/122112341-6e60d280-ce40-11eb-90ea-3bc1f4332d4a.png)
 
+![Screenshot_20210616-010902](https://user-images.githubusercontent.com/51409168/122112525-a9fb9c80-ce40-11eb-9336-9d8946dd2e64.png)
 
+![Screenshot_20210608-033642](https://user-images.githubusercontent.com/51409168/122112504-a700ac00-ce40-11eb-8209-13367438a02a.png)
+
+![Screenshot_20210609-211033](https://user-images.githubusercontent.com/51409168/122112508-a831d900-ce40-11eb-8e02-edd66948cdcc.png)
+
+![Screenshot_20210610-215148](https://user-images.githubusercontent.com/51409168/122112517-a8ca6f80-ce40-11eb-8cde-13d9a8df0a36.png)
